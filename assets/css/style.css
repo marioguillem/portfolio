@@ -1018,7 +1018,7 @@ main {
   color: var(--white-2);
   font-size: var(--fs-5);
   font-weight: var(--fw-400);
-  text-transform: capitalize;
+  text-transform: none;
   line-height: 1.3;
 }
 
